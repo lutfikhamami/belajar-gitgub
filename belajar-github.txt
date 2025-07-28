@@ -2,4 +2,6 @@ Belajar github untuk belajar ai coding
 pelajari cara kerja penggunaan github
 latih setiap hari menggunakan github
 - saat ini melakukan commit untuk menyimpan perubahan file yang ada di github
-- setelah di commit detail perubahan apa aja yang terjadi akan tercatat
+
+- menghapus data terakhir untuk perubahan commit file 
+- menambahkan detail github
