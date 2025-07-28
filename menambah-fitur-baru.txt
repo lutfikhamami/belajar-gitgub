@@ -1,0 +1,4 @@
+saat ini belajar branch 
+branch adalah merubah file utama tanpa merubah file utama 
+contoh : menambahkan fitur baru, atau membuat project dengan team
+branch master adalah file utama yang otomatis di buatkan oleh github
