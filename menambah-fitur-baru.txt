@@ -7,7 +7,9 @@ saat ini membuat perubahan commit
 * menambahkan fitur 2
 * menambahkan fitur 3 
 belajar study kasus jika kedua branch atau beberapa branch membuat fitur yang sayang sama contoh membuat tombol button yang sama
+
 * button warna merah
 * button warna hijau
 * button warna kuning
 * button warna putih 
+
